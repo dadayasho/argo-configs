@@ -9,4 +9,4 @@ spec:
   ports:
     - port: 80
       targetPort: 80
-      nodePort: 33441
+      nodePort: 31111
