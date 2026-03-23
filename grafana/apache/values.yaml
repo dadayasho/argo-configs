@@ -34,7 +34,7 @@ global:
   security:
     ## @param global.security.allowInsecureImages By default, this chart verifies that the original container images that were designed, tested, and validated are used. This option makes the chart skip the verification step and proceed
     ##
-    allowInsecureImages: false
+    allowInsecureImages: true
 
 ## @section Common parameters
 
